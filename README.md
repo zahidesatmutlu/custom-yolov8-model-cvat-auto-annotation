@@ -40,6 +40,6 @@ metadata:
 - Open Google Chrome browser and navigate to ```localhost:8080```. You can now view the custom YOLOv8 model for CVAT!
 
 <p align="center">
-  <img src="https://hizliresim.com/30uo5cu.jpg" />
+  <img src="https://imgur.com/LA6cTEr" />
 YOLOv8 model for CVAT
 </p>
