@@ -1,0 +1,1 @@
+# custom-yolov8-model-cvat-auto-annotation
