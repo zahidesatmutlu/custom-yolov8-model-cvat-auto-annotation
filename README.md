@@ -36,6 +36,10 @@ metadata:
 ```bash
 ./serverless/deploy_cpu.sh serverless/yolov8/nuclio
 ```
+or
+```bash
+./serverless/deploy_gpu.sh serverless/yolov8/nuclio
+```
 
 - Open Google Chrome browser and navigate to ```localhost:8080```. You can now view the custom YOLOv8 model for CVAT!
 
