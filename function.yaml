@@ -8,31 +8,10 @@ metadata:
     # change this accordingly to your model output/classes
     spec: |
       [
-        { "id": 0, "name": "1" },
-        { "id": 1, "name": "ins" },
-        { "id": 2, "name": "mot" },
-        { "id": 3, "name": "car" },
-        { "id": 4, "name": "kam" },
-        { "id": 5, "name": "bus" },
-        { "id": 6, "name": "ismak" },
-        { "id": 7, "name": "tren" },
-        { "id": 8, "name": "motor" },
-        { "id": 9, "name": "yuap" },
-        { "id": 10, "name": "uuap" },
-        { "id": 11, "name": "yaup" },
-        { "id": 12, "name": "yaam" },
-        { "id": 13, "name": "uyam" },
-        { "id": 14, "name": "2" },
-        { "id": 15, "name": "3" },
-        { "id": 16, "name": "mo" },
-        { "id": 17, "name": "4" },
-        { "id": 18, "name": "bis" },
-        { "id": 19, "name": "5" },
-        { "id": 20, "name": "insan" },
-        { "id": 21, "name": "tasit" },
-        { "id": 22, "name": "yaya" },
-        { "id": 23, "name": "arac" },
-        { "id": 24, "name": "w" }
+        { "id": 0, "name": "car" },
+        { "id": 1, "name": "person" },
+        { "id": 2, "name": "motorcycle" },
+        { "id": 3, "name": "truck" }
       ]
 spec:
   description: custom-model-yolov8
